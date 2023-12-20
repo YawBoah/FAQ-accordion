@@ -13,7 +13,9 @@ Welcome to the FAQ Accordion project – a vibrant and interactive accordion tha
 - **Accessible Navigation:** Cruise through questions and answers effortlessly using keyboard controls.
 
 ## 🚀 Live Demo
-[Explore the live demo here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## 🛠 Technologies Used
 - HTML5
@@ -42,5 +44,8 @@ This vibrant project emerged as a challenge from the incredible folks at [Fronte
 
 ## 🙌 Acknowledgments
 Huge shoutout to [Frontend Mentor](https://www.frontendmentor.io/) for crafting engaging challenges that inspire continuous growth and learning. 🌱
+
+## What I learned
+Attention to detail is a crucial skill in any project, especially in programming and web development. It's often the small details that can make a significant difference in the overall quality and user experience of a project. Overlooking even the smallest detail can lead to issues and bugs that might be challenging to identify and fix later.
 
 Feel free to use, remix, and adapt this template for your own projects. Happy coding! 🚀✨
