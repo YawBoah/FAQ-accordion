@@ -13,8 +13,8 @@ Welcome to the FAQ Accordion project – a vibrant and interactive accordion tha
 - **Accessible Navigation:** Cruise through questions and answers effortlessly using keyboard controls.
 
 ## 🚀 Live Demo
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/YawBoah/FAQ-accordion)
+- Live Site URL: [Live Demo](https://questionsandanswers101.netlify.app/)
 
 
 ## 🛠 Technologies Used
