@@ -38,6 +38,12 @@ body{
     color:hsl(292, 42%, 14%);
     font-size: 16px;
     font-weight: 700;
+    cursor: pointer;
+  }
+
+
+  .question p:hover{
+    color: hsl(293, 87%, 41%);
   }
 
   .answer{
