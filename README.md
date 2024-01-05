@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/37fd4c1a-535e-4f95-8fd3-d43c43557e6a/deploy-status)](https://app.netlify.com/sites/questionsandanswers101/deploys)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/FAQ-accordion)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/FAQ-accordion)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/FAQ-accordion)
 
 # Frontend Mentor - 🌐📚FAQ Accordion👥🚀🤝 solution
 
